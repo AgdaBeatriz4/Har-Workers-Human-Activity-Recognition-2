@@ -1,0 +1,1 @@
+{"millis":1675200071362,"nanos":640024167778492,"type":"ENDLESS","date":"31_01_2023_18_21_11","notes":[""],"ranges":[{"sensor":"ACG","range":78.453156},{"sensor":"PROXIMITY","range":5},{"sensor":"LIGHT","range":65535},{"sensor":"STEP_COUNTER","range":2147483648},{"sensor":"STEP_DETECTOR","range":1}],"alarms":[]}
